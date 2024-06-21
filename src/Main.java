@@ -3,7 +3,7 @@ import java.awt.event.*;
 import java.sql.*;
 
 public class Main {
-    private static final String URL = "jdbc:mariadb://0.tcp.jp.ngrok.io:11051/411177001";
+    private static final String URL = "jdbc:mariadb://0.tcp.jp.ngrok.io:12592/411177001";
     private static final String USER = "411177001";
     private static final String PASSWORD = "411177001";
 
